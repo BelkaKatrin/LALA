@@ -8,4 +8,4 @@ compiler:
 - clang 
 
 script: 
-- make Red Black Tree
+- make RedBlackTree
